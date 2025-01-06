@@ -97,3 +97,55 @@
 // else{
 //     console.log("4 quadrent")
 // }
+
+
+
+// var a=10
+// var i
+// var b=[0,1]
+// for(i=1;i<=10;i++){
+//     c=i+b(-1)
+//     b.append(c)
+// }
+// console.log(b)
+
+
+
+// var a="football"
+// var b=a.length
+// var c=0
+// for(var i=0;i<b;i++){
+//     if(a[i]=="a"||a[i]=="i"||a[i]=="e"||a[i]=="o"||a[i]=="u"){
+//          c+=1
+//     }
+// }
+// console.log(c)
+
+
+
+// var a=5
+// sum=1
+// for(var i=1;i<=a;i++){
+//    sum*=i
+// }
+// console.log(sum)
+
+
+// var a="football"
+// var b=a.length
+// var c=""
+// for(var i=0;i<b;i++){
+//     c=a[i]+c
+// }
+// console.log(c)
+
+
+
+// var a=10
+// var sum=0
+// for(var i=0;i<=a;i++){
+//     sum+=i
+// }
+// console.log(sum)
+
+
